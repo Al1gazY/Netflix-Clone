@@ -17,6 +17,7 @@
 		36503EA529114C1C00F9E6E7 /* SearchVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36503EA429114C1C00F9E6E7 /* SearchVC.swift */; };
 		36503EA729114C4800F9E6E7 /* DownloadsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36503EA629114C4800F9E6E7 /* DownloadsVC.swift */; };
 		36503EAE291151CC00F9E6E7 /* CollectionViewTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36503EAD291151CC00F9E6E7 /* CollectionViewTableViewCell.swift */; };
+		36C0D271291BF6E800A284A3 /* HeroHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36C0D270291BF6E800A284A3 /* HeroHeaderView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		36503EA429114C1C00F9E6E7 /* SearchVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchVC.swift; sourceTree = "<group>"; };
 		36503EA629114C4800F9E6E7 /* DownloadsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadsVC.swift; sourceTree = "<group>"; };
 		36503EAD291151CC00F9E6E7 /* CollectionViewTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewTableViewCell.swift; sourceTree = "<group>"; };
+		36C0D270291BF6E800A284A3 /* HeroHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeroHeaderView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,6 +97,7 @@
 			isa = PBXGroup;
 			children = (
 				36503EAD291151CC00F9E6E7 /* CollectionViewTableViewCell.swift */,
+				36C0D270291BF6E800A284A3 /* HeroHeaderView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -201,6 +204,7 @@
 				36503E8F291149B100F9E6E7 /* MainTabBarVC.swift in Sources */,
 				36503EAE291151CC00F9E6E7 /* CollectionViewTableViewCell.swift in Sources */,
 				36503EA129114B8800F9E6E7 /* HomeVC.swift in Sources */,
+				36C0D271291BF6E800A284A3 /* HeroHeaderView.swift in Sources */,
 				36503E8B291149B100F9E6E7 /* AppDelegate.swift in Sources */,
 				36503EA729114C4800F9E6E7 /* DownloadsVC.swift in Sources */,
 				36503EA329114BBF00F9E6E7 /* UpcomingVC.swift in Sources */,
