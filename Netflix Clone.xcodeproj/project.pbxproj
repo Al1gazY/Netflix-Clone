@@ -20,6 +20,8 @@
 		36C0D271291BF6E800A284A3 /* HeroHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36C0D270291BF6E800A284A3 /* HeroHeaderView.swift */; };
 		36C0D273291FAD0000A284A3 /* APICaller.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36C0D272291FAD0000A284A3 /* APICaller.swift */; };
 		36CDD311292553D000F053C2 /* Movie.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36CDD310292553D000F053C2 /* Movie.swift */; };
+		36CDD3132925D60E00F053C2 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36CDD3122925D60E00F053C2 /* Extensions.swift */; };
+		36CDD3152925D9A100F053C2 /* TV.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36CDD3142925D9A100F053C2 /* TV.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +40,8 @@
 		36C0D270291BF6E800A284A3 /* HeroHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeroHeaderView.swift; sourceTree = "<group>"; };
 		36C0D272291FAD0000A284A3 /* APICaller.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APICaller.swift; sourceTree = "<group>"; };
 		36CDD310292553D000F053C2 /* Movie.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Movie.swift; sourceTree = "<group>"; };
+		36CDD3122925D60E00F053C2 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
+		36CDD3142925D9A100F053C2 /* TV.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TV.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -117,6 +121,7 @@
 			isa = PBXGroup;
 			children = (
 				36CDD310292553D000F053C2 /* Movie.swift */,
+				36CDD3142925D9A100F053C2 /* TV.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -124,6 +129,7 @@
 		36503EAB2911516D00F9E6E7 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				36CDD3122925D60E00F053C2 /* Extensions.swift */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -207,12 +213,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				36503EA529114C1C00F9E6E7 /* SearchVC.swift in Sources */,
+				36CDD3152925D9A100F053C2 /* TV.swift in Sources */,
 				36503E8F291149B100F9E6E7 /* MainTabBarVC.swift in Sources */,
 				36503EAE291151CC00F9E6E7 /* CollectionViewTableViewCell.swift in Sources */,
 				36C0D273291FAD0000A284A3 /* APICaller.swift in Sources */,
 				36503EA129114B8800F9E6E7 /* HomeVC.swift in Sources */,
 				36C0D271291BF6E800A284A3 /* HeroHeaderView.swift in Sources */,
 				36503E8B291149B100F9E6E7 /* AppDelegate.swift in Sources */,
+				36CDD3132925D60E00F053C2 /* Extensions.swift in Sources */,
 				36503EA729114C4800F9E6E7 /* DownloadsVC.swift in Sources */,
 				36503EA329114BBF00F9E6E7 /* UpcomingVC.swift in Sources */,
 				36CDD311292553D000F053C2 /* Movie.swift in Sources */,
