@@ -55,8 +55,20 @@ class HomeVC: UIViewController {
 //            }
 //        }
         
-        APICaller.shared.getTrendingTV{ results in
-            //
+//        APICaller.shared.getTrendingTV{ results in
+//            //
+//        }
+        
+//        APICaller.shared.getUpcomingMovies { _ in
+//
+//        }
+        
+//        APICaller.shared.getPopular { _ in
+//
+//        }
+        
+        APICaller.shared.getTopRated { _ in
+            
         }
     }
 }
